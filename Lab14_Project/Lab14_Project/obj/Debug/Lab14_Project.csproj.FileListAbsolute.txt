@@ -1,0 +1,8 @@
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\bin\Debug\Lab14_Project.exe.config
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\bin\Debug\Lab14_Project.exe
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\bin\Debug\Lab14_Project.pdb
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\obj\Debug\Lab14_Project.csproj.AssemblyReference.cache
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\obj\Debug\Lab14_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\obj\Debug\Lab14_Project.csproj.CoreCompileInputs.cache
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\obj\Debug\Lab14_Project.exe
+C:\Users\79531\Desktop\14laba\Lab14_Project\Lab14_Project\obj\Debug\Lab14_Project.pdb
