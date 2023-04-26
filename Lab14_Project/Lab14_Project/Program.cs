@@ -28,7 +28,7 @@ namespace Lab14_Project
                 }  
 
             }
-            Console.WriteLine("Самый выгодный банк для продажи долларов: " + temp1);
+            Console.WriteLine("Самый выгодный банк для продажи долларов " + temp1);
             Console.ReadKey();
         }
     }
