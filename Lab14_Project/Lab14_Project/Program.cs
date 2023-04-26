@@ -42,7 +42,6 @@ namespace Lab14_Project
             Console.WriteLine("Самый выгодный банк для продажи долларов: " + LychshiyBankRossii);
 			Console.WriteLine("Cумма в рублях, которую можно получить за {0}$ = {1}", dollars, maxRubles);
             Console.ReadLine();
-            //Можно дописать покупку доллара, покупка есть
         }
     }
 }
