@@ -40,6 +40,7 @@ namespace Lab14_Project
             double dollars = double.Parse(Console.ReadLine());
             double maxRubles = SamayaVisokayaCena * dollars;
             Console.WriteLine("Самый выгодный банк для продажи долларов: " + LychshiyBankRossii);
+			Console.WriteLine("Cумма в рублях, которую можно получить за {0}$ = {1}", dollars, maxRubles);
             Console.ReadLine();
             //Можно дописать покупку доллара, покупка есть
         }
